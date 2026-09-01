@@ -1,8 +1,5 @@
 # Hi, I'm Rehan Khan 👋
 
-<img src="xyz.pvt" width="250">
-
-
 **1st Year Student | MCA Integrated (BCA + MCA) | IIPS DAVV, Indore**
 
 I'm currently in my 1st semester of the 5-year Integrated MCA program at **International Institute of Professional Studies (IIPS), Devi Ahilya Vishwavidyalaya, Indore**.
