@@ -2,6 +2,14 @@
 
 **1st Year Student | MCA Integrated (BCA + MCA) | IIPS DAVV, Indore**
 
+![Profile Views](https://komarev.com/ghpvc/?username=rehankhandev1&label=Profile%20Views&color=0e75b6&style=flat)
+
+<!-- 🖼️ ADD YOUR IMAGE LINK BELOW -->
+<p align="center">
+  <img src="PASTE-YOUR-IMAGE-LINK-HERE" width="250" alt="Rehan Khan">
+</p>
+<!-- 🖼️ END IMAGE SECTION -->
+
 I'm currently in my 1st semester of the 5-year Integrated MCA program at **International Institute of Professional Studies (IIPS), Devi Ahilya Vishwavidyalaya, Indore**.
 
 Passionate about learning programming and building practical projects.  
