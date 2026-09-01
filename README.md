@@ -1,6 +1,6 @@
 # Hi, I'm Rehan Khan 👋
 
-<img src="play-lh.googleusercontent.com/P_V6KniXVUB9DUfXMS78XYTt6gfiCPKJWSyOjc7pPZ93B1b8Al_HXCiNXCl3dtTb4r6IHPkhavDEmaAxdh9Csg" width="250">
+<img src="xyz.pvt" width="250">
 
 
 **1st Year Student | MCA Integrated (BCA + MCA) | IIPS DAVV, Indore**
