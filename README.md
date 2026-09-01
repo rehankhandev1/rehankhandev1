@@ -6,7 +6,7 @@
 
 <!-- 🖼️ ADD YOUR IMAGE LINK BELOW -->
 <p align="center">
-  <img src="PASTE-YOUR-IMAGE-LINK-HERE" width="250" alt="Rehan Khan">
+  <img src="https://play-lh.googleusercontent.com/P_V6KniXVUB9DUfXMS78XYTt6gfiCPKJWSyOjc7pPZ93B1b8Al_HXCiNXCl3dtTb4r6IHPkhavDEmaAxdh9Csg" width="250" alt="Rehan Khan">
 </p>
 <!-- 🖼️ END IMAGE SECTION -->
 
