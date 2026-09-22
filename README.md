@@ -43,7 +43,7 @@ A clean, mobile-friendly attendance management web app built with pure HTML, CSS
 - 📊 Generate attendance reports
 - 📱 Fully responsive design with a minimal aesthetic
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=rehankhandev1&repo=attendance-app&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats-lovat-chi-45.vercel.app/api/pin/?username=rehankhandev1&repo=attendance-app&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -60,8 +60,8 @@ A clean, mobile-friendly attendance management web app built with pure HTML, CSS
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rehankhandev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehankhandev1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-lovat-chi-45.vercel.app/api?username=rehankhandev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-lovat-chi-45.vercel.app/api/top-langs/?username=rehankhandev1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
