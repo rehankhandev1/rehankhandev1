@@ -4,11 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rehankhandev1&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- 🖼️ ADD YOUR IMAGE LINK BELOW -->
-<p align="center">
-  <img src="https://play-lh.googleusercontent.com/P_V6KniXVUB9DUfXMS78XYTt6gfiCPKJWSyOjc7pPZ93B1b8Al_HXCiNXCl3dtTb4r6IHPkhavDEmaAxdh9Csg" width="250" alt="Rehan Khan">
-</p>
-<!-- 🖼️ END IMAGE SECTION -->
 
 I'm currently in my 1st semester of the 5-year Integrated MCA program at **International Institute of Professional Studies (IIPS), Devi Ahilya Vishwavidyalaya, Indore**.
 
