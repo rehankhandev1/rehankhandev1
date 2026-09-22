@@ -68,9 +68,7 @@ A clean, mobile-friendly attendance management web app built with pure HTML, CSS
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehankhandev1&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehankhandev1&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
+
 
 ---
 
